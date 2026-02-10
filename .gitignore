@@ -1,0 +1,84 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environment
+venv/
+ENV/
+env/
+oil_spill_env/
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Data files (large datasets)
+*.csv
+*.json
+!config/*.json
+data/raw/
+data/cleaned/
+
+# Logs
+*.log
+*.txt
+!requirements.txt
+
+# MongoDB
+*.bson
+
+# PowerBI
+*.pbix.tmp
+
+# Archives
+*.rar
+*.zip
+*.tar.gz
+
+# Cookies and sensitive data
+cookies.json
+*_config.json
+!db_config.json
+
+# Machine Learning
+models/
+*.pkl
+*.joblib
+*.h5
+*.pt
+*.pth
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Temporary files
+*.tmp
+*.temp
+~$*

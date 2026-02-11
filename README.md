@@ -428,7 +428,7 @@ Detailed documentation available in the `documents/` directory:
 **Course**: M1 Data Science
 **Module**: Business Intelligence & Big Data
 **Authors**: HAMOUCH & FAKIR
-**Institution**: [Your University]
+**Institution**: [Unniversite Mundiapolis]
 
 ## 📜 License
 

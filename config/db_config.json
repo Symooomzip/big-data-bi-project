@@ -1,0 +1,6 @@
+{
+    "DB_HOST": "localhost",
+    "DB_PORT": 27017,
+    "DB_NAME": "your_db_name",
+    "DB_COLLECTION": "your_collection_name"
+}
